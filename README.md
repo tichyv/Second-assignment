@@ -1,11 +1,17 @@
 Second assignment
 
 BOM:
+
 Raspberry Pi 4
+
 Breadboard
+
 3x 220 Ohm resistor
+
 RGB Led (with common (-))
+
 Rotary encoder
+
 9x wire
 
 ![image](https://github.com/tichyv/Second-assignment/assets/149083694/fa24cb5d-967f-4fa7-a346-d3a1668a7d9d)
